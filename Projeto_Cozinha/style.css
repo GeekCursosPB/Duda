@@ -1,0 +1,27 @@
+.Cabecalho {
+    background-color: #f14d8c;
+    margin:0;
+    padding-left: 30px;
+    color: aliceblue;
+    border-radius: 0px 0px 20px 20px;
+    display: flex;
+    justify-content: left;
+}
+
+    
+
+  #icon {
+    height: 70px; 
+    background-color: antiquewhite; 
+    border-radius: 100%;
+    margin-top: 15px;
+    margin-right: 14px;
+    float: left;
+  }
+
+  #pesquisa {
+    width:40px;
+    height: 40px;
+    float: right;
+    
+  }
