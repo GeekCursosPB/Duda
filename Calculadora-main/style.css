@@ -14,3 +14,11 @@
     position: relative;
     justify-items: center;
 }
+
+.Titulo {
+    padding-top: 20px;
+    margin-top: 50%;
+ text-align: center;
+ float: right;
+ font-size: 25px;
+}
